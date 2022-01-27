@@ -1,0 +1,4 @@
+Manjaro 
+Archlinux
+Slackware
+Linux
